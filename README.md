@@ -45,7 +45,7 @@ Under the **Contributing** section, you can explain how interested developers ca
 
 ## License
 
-This project is licensed under the **MIT License**. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the **MIT License**.
 
 ## Contact
 
