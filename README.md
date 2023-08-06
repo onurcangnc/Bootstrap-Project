@@ -41,7 +41,7 @@ Under the **Contributing** section, you can explain how interested developers ca
 
 ### Contributors
 
-- [Onurcan Gönç](https://github.com/onurcangnc)
+- [Onurcan Genç](https://github.com/onurcangnc)
 
 ## License
 
