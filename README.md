@@ -1,6 +1,6 @@
 # Simple Bootstrap Project
 
-![Bootstrap Logo](https://svgshare.com/i/wDc.svg)
+![Resim açıklaması]([https://svgshare.com/i/wDc.svg] =200x300)
 
 **Project Description:**
 Creating responsive and creative website using Bootstrap framework technology.
