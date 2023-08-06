@@ -1,6 +1,5 @@
 # Simple Bootstrap Project
-
-<img src="https://svgshare.com/i/wDc.svg" alt="Referans bir isim" width="300" height="200">
+![Referans bir isim](https://svgshare.com/i/wDc.svg)
 
 **Project Description:**
 Creating responsive and creative website using Bootstrap framework technology.
