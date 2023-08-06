@@ -1,5 +1,4 @@
-# Project Name
-Simple Bootstrap Project
+# Simple Bootstrap Project
 
 ![Bootstrap Logo](https://svgshare.com/i/wDc.svg)
 
