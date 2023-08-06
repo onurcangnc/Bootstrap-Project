@@ -1,6 +1,8 @@
 # Project Name
 Simple Bootstrap Project
 
+![Bootstrap Logo](https://svgshare.com/i/wDc.svg)
+
 **Project Description:**
 Creating responsive and creative website using Bootstrap framework technology.
 
